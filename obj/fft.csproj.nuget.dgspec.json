@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fft\\fft.csproj": {}
+    "C:\\Users\\小透明\\Desktop\\fft\\fft.csproj": {}
   },
   "projects": {
-    "D:\\fft\\fft.csproj": {
+    "C:\\Users\\小透明\\Desktop\\fft\\fft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fft\\fft.csproj",
+        "projectUniqueName": "C:\\Users\\小透明\\Desktop\\fft\\fft.csproj",
         "projectName": "fft",
-        "projectPath": "D:\\fft\\fft.csproj",
-        "packagesPath": "C:\\Users\\i'CNC\\.nuget\\packages\\",
-        "outputPath": "D:\\fft\\obj\\",
+        "projectPath": "C:\\Users\\小透明\\Desktop\\fft\\fft.csproj",
+        "packagesPath": "C:\\Users\\小透明\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\小透明\\Desktop\\fft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\i'CNC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\小透明\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
